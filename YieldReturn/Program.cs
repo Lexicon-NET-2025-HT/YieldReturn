@@ -13,15 +13,15 @@
             //    Console.WriteLine(item);
             //}
 
-            foreach (var item in GetNumbers())
-            {
-                Console.WriteLine(item);
-            }
+            //foreach (var item in GetNumbers())
+            //{
+            //    Console.WriteLine(item);
+            //}
             
-            foreach (var item in GetNumOrdinary().Take(5))
-            {
-                Console.WriteLine(item);
-            }
+            //foreach (var item in GetNumOrdinary().Take(5))
+            //{
+            //    Console.WriteLine(item);
+            //}
 
             foreach (var item in GetNumYield().Take(5))
             {
